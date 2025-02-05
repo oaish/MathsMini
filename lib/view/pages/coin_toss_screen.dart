@@ -53,8 +53,6 @@ class _CoinTossScreenState extends State<CoinTossScreen> with SingleTickerProvid
                 final arr = coinOutcomeGenerator();
                 final [outcomes, heads, tails] = arr;
 
-                print(arr);
-
                 setState(() {
                   coinOutcomes = outcomes;
                 });
