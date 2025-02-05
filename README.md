@@ -35,7 +35,7 @@ This project visualizes the probability distribution of tossing 9 fair coins sim
    ```
 3. **Run the project:**
    ```sh
-   flutter run  # Modify based on your implementation
+   flutter run  
    ```
 
 ## 📊 Outputs
@@ -54,5 +54,5 @@ Feel free to **fork** this repository, **submit issues**, or **make pull request
 This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Oaish Qazi
 
