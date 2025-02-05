@@ -39,7 +39,8 @@ This project visualizes the probability distribution of tossing 9 fair coins sim
    ```
 
 ## 📊 Outputs
-![Alt Text](/assets/images/op1.jpg)
+![Alt Text](/assets/images/op6.jpg)
+
 
 ## 🔮 Future Enhancements
 - Allow users to customize the number of coins tossed.
