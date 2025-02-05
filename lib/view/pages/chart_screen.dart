@@ -248,7 +248,7 @@ class _ChartScreenState extends State<ChartScreen> {
       setState(() {
         trials = trialValue;
       });
-    } on FormatException catch (e) {
+    } on FormatException {
       ScaffoldMessenger.of(context)
         ..hideCurrentSnackBar()
         ..showSnackBar(getSnackBar('NaN', 'Please enter a valid number', ContentType.failure));
