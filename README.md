@@ -20,8 +20,8 @@ This project visualizes the probability distribution of tossing 9 fair coins sim
 - Allows users to experiment with different numbers of trials.
 
 ## 🛠 Technologies Used
-- **Programming Language:** (Specify language, e.g., Python, Java, Flutter, etc.)
-- **Graphing Library:** (Specify, e.g., Matplotlib, Chart.js, Flutter Charts, etc.)
+- **Programming Language:** Flutter
+- **Graphing Library:** Flutter Charts
 
 ## 🚀 Installation & Usage
 1. **Clone the repository:**
@@ -31,16 +31,15 @@ This project visualizes the probability distribution of tossing 9 fair coins sim
    ```
 2. **Install dependencies** (if any):
    ```sh
-   # Example for Python
-   pip install -r requirements.txt
+   flutter pub get
    ```
 3. **Run the project:**
    ```sh
-   python main.py  # Modify based on your implementation
+   flutter run  # Modify based on your implementation
    ```
 
-## 📊 Example Output
-*(Include a screenshot of the generated graph here.)*
+## 📊 Outputs
+![Alt Text](/assets/images/op1.jpg)
 
 ## 🔮 Future Enhancements
 - Allow users to customize the number of coins tossed.
